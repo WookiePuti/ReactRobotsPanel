@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2359371b4cbab2d332e68e05f2337d0",
+    "revision": "7b07ef7189d130694d7945c4e6435238",
     "url": "/ReactRobotsPanel/index.html"
   },
   {
-    "revision": "0adb063cae1b3b5caf68",
+    "revision": "57479c2604cbf5f54b10",
     "url": "/ReactRobotsPanel/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "7150a2d2346c091fbc2e",
+    "revision": "5c74dc191b4d4d1b1104",
     "url": "/ReactRobotsPanel/static/css/main.9f6b8aee.chunk.css"
   },
   {
-    "revision": "0adb063cae1b3b5caf68",
-    "url": "/ReactRobotsPanel/static/js/2.270c9da8.chunk.js"
+    "revision": "57479c2604cbf5f54b10",
+    "url": "/ReactRobotsPanel/static/js/2.e994fc30.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ReactRobotsPanel/static/js/2.270c9da8.chunk.js.LICENSE.txt"
+    "url": "/ReactRobotsPanel/static/js/2.e994fc30.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7150a2d2346c091fbc2e",
-    "url": "/ReactRobotsPanel/static/js/main.52103277.chunk.js"
+    "revision": "5c74dc191b4d4d1b1104",
+    "url": "/ReactRobotsPanel/static/js/main.b8b1bb66.chunk.js"
   },
   {
     "revision": "c84040f7ddfc7c0f5394",
