@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactRobotsPanel/static/css/main.9f6b8aee.chunk.css",
-    "main.js": "/ReactRobotsPanel/static/js/main.bc83403d.chunk.js",
-    "main.js.map": "/ReactRobotsPanel/static/js/main.bc83403d.chunk.js.map",
+    "main.js": "/ReactRobotsPanel/static/js/main.a210fa04.chunk.js",
+    "main.js.map": "/ReactRobotsPanel/static/js/main.a210fa04.chunk.js.map",
     "runtime-main.js": "/ReactRobotsPanel/static/js/runtime-main.57cdbf4c.js",
     "runtime-main.js.map": "/ReactRobotsPanel/static/js/runtime-main.57cdbf4c.js.map",
     "static/css/2.3c03f26f.chunk.css": "/ReactRobotsPanel/static/css/2.3c03f26f.chunk.css",
     "static/js/2.270c9da8.chunk.js": "/ReactRobotsPanel/static/js/2.270c9da8.chunk.js",
     "static/js/2.270c9da8.chunk.js.map": "/ReactRobotsPanel/static/js/2.270c9da8.chunk.js.map",
     "index.html": "/ReactRobotsPanel/index.html",
-    "precache-manifest.cd4df750365111c821b34ac06fc98729.js": "/ReactRobotsPanel/precache-manifest.cd4df750365111c821b34ac06fc98729.js",
+    "precache-manifest.36ad4d952465f4260ec80b036dec317f.js": "/ReactRobotsPanel/precache-manifest.36ad4d952465f4260ec80b036dec317f.js",
     "service-worker.js": "/ReactRobotsPanel/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/ReactRobotsPanel/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.9f6b8aee.chunk.css.map": "/ReactRobotsPanel/static/css/main.9f6b8aee.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.270c9da8.chunk.js",
     "static/css/main.9f6b8aee.chunk.css",
-    "static/js/main.bc83403d.chunk.js"
+    "static/js/main.a210fa04.chunk.js"
   ]
 }
