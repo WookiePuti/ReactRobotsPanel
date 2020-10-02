@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Rosemary';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Rosemary'), url('Rosemary.woff') format('woff');
+}
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +43,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1 {
+font-family: 'Rosemary';
 }
