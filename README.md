@@ -2,7 +2,7 @@ This project is intended to include the newest web technologies.
 
 The core of the app is a simple React page, which uses RoboHash API in order to render some cards of robots, which could simulate for example showing web app users info.
 
-Project includes several branches, which improved the basic core with some additional, modern features.
+Project includes several branches, which improve the basic core with some additional, modern features.
 
 Improvements:
 
