@@ -4,7 +4,7 @@ The core of the app is a simple React page, which uses RoboHash API in order to 
 
 Project includes several branches, which improve the basic core with some additional, modern features.
 
-Improvements:
+Created Improvements:
 
 - Usage of React hooks and Redux in order to manage app state for example a fetch state
 - Usage of PWA techniques for example the service workers which take care about caching
