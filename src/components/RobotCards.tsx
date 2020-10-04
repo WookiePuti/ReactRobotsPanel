@@ -1,8 +1,12 @@
-import React, { useEffect } from "react";
+import * as React from "react";
+import * as ReactDOM from "react-dom";
 import Card from "./Card";
+import {CardProps} from "./Card";
 
-const RobotCards = (props) => {
-  const { robots } = props;
+
+
+const RobotCards = ({robots}: {robots: Array<CardProps>}) => {
+
 
   return robots.map((robot, index) => {
     return (

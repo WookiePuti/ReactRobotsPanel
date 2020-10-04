@@ -2,7 +2,6 @@ import React, { Fragment, useEffect, useState } from "react";
 import { connect } from "react-redux";
 import "./App.css";
 import RobotCards from "./components/RobotCards";
-import tachyons from "tachyons";
 import SearchComponent from "./components/SearchComponent";
 import Scroll from "./components/Scroll";
 import { requestRobots, setSearchField } from "./actions";

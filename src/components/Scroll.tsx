@@ -1,6 +1,11 @@
-import React from "react";
+import * as React from "react";
+import * as ReactDOM from "react-dom";
 
-const Scroll = (props) => {
+interface ScrollProps {
+    children?: JSX.Element
+}
+
+const Scroll: React.FunctionComponent<ScrollProps> = (props:ScrollProps) => {
   return (
     <div
       style={{
