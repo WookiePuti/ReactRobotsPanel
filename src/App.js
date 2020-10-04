@@ -6,6 +6,7 @@ import tachyons from "tachyons";
 import SearchComponent from "./components/SearchComponent";
 import Scroll from "./components/Scroll";
 import { requestRobots, setSearchField } from "./actions";
+import ErrorBoundary from "./components/ErrorBoundary";
 
 const mapStateToProps = (state) => {
   return {
@@ -29,7 +30,7 @@ const App = (props) => {
     props.OnRequestRobots();
   }, []);
 
-  const { searchField, allRobots, setSearchValue } = props;
+  const { searchField, allRobots, setSearchValue, isPending } = props;
 
   const robots = allRobots.filter((robot) => {
     return robot.name.toLowerCase().includes(searchField.toLowerCase().trim());
@@ -40,7 +41,13 @@ const App = (props) => {
       <h1>Robots</h1>
       <SearchComponent setSearchValue={setSearchValue} />
       <Scroll>
-        <RobotCards robots={robots} />
+        {isPending ? (
+          <h1>Loading</h1>
+        ) : (
+          <ErrorBoundary>
+            <RobotCards robots={robots} />
+          </ErrorBoundary>
+        )}
       </Scroll>
       ;
     </div>
